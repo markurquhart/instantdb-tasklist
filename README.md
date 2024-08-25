@@ -4,4 +4,4 @@ Playing around with instantdb + react
 
 ## Go test it out
 
-Visit their website [`create-next-app`](https://www.instantdb.com/).
+Visit their website [`instantdb`](https://www.instantdb.com/).
